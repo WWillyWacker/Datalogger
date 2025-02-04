@@ -1,1 +1,1 @@
-{"Name":Datalogger-Keller,"SoftwareVersion":1.0,"HumidityThreshold":42.10,"BatteryThreshold":4.1,"WakeupInterval":600,"GithubCert-Update":0,"OTA-Update":0}
+{"Name":"Datalogger-Keller","SoftwareVersion":1.0,"HumidityThreshold":50.0,"BatteryThreshold":3.7,"WakeupInterval":400,"GithubCert-Update":0,"OTA-Update":0}
